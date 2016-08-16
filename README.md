@@ -1,5 +1,7 @@
 # hello-world
-generic repository for learning github
+=============
+
+Dangit!
 
 I'm Dan Rodda & I draw stuff occasionally.
 I got a degree as an Illustrator, then I got a job as a production artist.
